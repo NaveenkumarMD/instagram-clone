@@ -1,4 +1,5 @@
 # instagram-clone
+![](https://github.com/NaveenkumarMD/instagram-clone/blob/master/frontend/src/logo.png)
 An Instagram clone made using MERN stack and Cloudfire for cloud storage
 
 # Installation guide
